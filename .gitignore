@@ -9,6 +9,7 @@ target/
 .project
 .classpath
 .history
+.vs
 
 # idea ignore
 .idea/
