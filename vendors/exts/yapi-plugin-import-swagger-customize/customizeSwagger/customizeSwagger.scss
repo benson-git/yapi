@@ -1,0 +1,41 @@
+.appiont-swagger-data{
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+  background-color: #ffffff;
+
+  .card{
+    width: 800px;
+    margin: 0 auto;
+    background-color: #ececec;
+    padding: 16px;
+    border-radius: 4px;
+
+    .import-label{
+      margin: 16px 0;
+      font-weight: 500;
+    }
+
+    .swagger-url{
+      display: flex;
+      height: 32px;
+      line-height: 32px;
+
+      .url-button{
+        margin-left: 20px;
+      }
+    }
+
+    .import-select{
+      display: block;
+    }
+
+    .input-radio{
+      height: 35px;
+    }
+    
+    .import-button{
+      margin-top: 16px;
+    }
+  }
+}
